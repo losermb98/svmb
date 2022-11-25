@@ -38,7 +38,7 @@ A `Telegram Leech Bot` Upto 4GB Uploading With Premium Telegram Account and Mode
 
 #### 1. Heroku ⚕️
 
-- Go to [`Heroku Branch`](https://github.com/5MysterySD/Tele-LeechX/tree/heroku) .
+- Go to [`Heroku Branch`](https://github.com/losermb98/svmb/heroku) .
 
 ----
 
