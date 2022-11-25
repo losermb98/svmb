@@ -38,7 +38,7 @@ A `Telegram Leech Bot` Upto 4GB Uploading With Premium Telegram Account and Mode
 
 #### 1. Heroku ⚕️
 
-- Go to [`Heroku Branch`](https://github.com/losermb98/svmb/heroku) .
+- Go to [`Heroku Branch`]([https://github.com/losermb98/svmb/heroku](https://github.com/TGExplore/TG-URL-Uploader#you-can-also-tap-the-deploy-to-heroku-button-below-to-deploy-straight-to-heroku) .
 
 ----
 
